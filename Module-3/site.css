@@ -1,0 +1,16 @@
+/* site.css - Styling for CSD 340 Landing Page */
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+p {
+  color: #34495e;
+}
